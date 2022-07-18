@@ -10,5 +10,6 @@ package com.aatguigu.git;
 public class GitTest {
     public static void main(String[] args) {
         System.out.println("dududu");
+        System.out.println("dududdu");
     }
 }
