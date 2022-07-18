@@ -17,7 +17,7 @@ public class GitTest {
         System.out.println("hot-fix");
         System.out.println("push-test");
         System.out.println("push-test1");
-        
+        大家好
         update
     }
 }
